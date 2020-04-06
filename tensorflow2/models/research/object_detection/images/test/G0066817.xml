@@ -1,0 +1,1 @@
+<annotations><filename>G0066817.jpg</filename><folder>test</folder><size><width>800</width><height>640</height><depth>3</depth></size><object><name>pothole</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>410</xmin><ymin>344</ymin><xmax>447</xmax><ymax>356</ymax></bndbox></object></annotations>

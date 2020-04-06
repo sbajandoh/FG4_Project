@@ -1,0 +1,1 @@
+<annotations><filename>CPLX_G0028417.jpg</filename><folder>train</folder><size><width>800</width><height>640</height><depth>3</depth></size><object><name>pothole</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>305</xmin><ymin>311</ymin><xmax>335</xmax><ymax>317</ymax></bndbox></object></annotations>
